@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<factura>
+	<cliente>
+		<nombre>Luis Hernández</nombre>
+		<telefono>3012179249</telefono>
+	</cliente>
+	<articulos>
+		<articulo id="1">
+			<descripcion>Tennis</descripcion>
+			<precio-unitario>60000</precio-unitario>
+			<precio-final>70000</precio-final>
+			<cantidad>1</cantidad>
+		</articulo>
+		<articulo id="2">
+			<descripcion>Zapatos</descripcion>
+			<precio-unitario>90000</precio-unitario>
+			<precio-final>100000</precio-final>
+			<cantidad>1</cantidad>
+		</articulo>
+		<articulo id="3">
+			<descripcion>Chanclas</descripcion>
+			<precio-unitario>12000</precio-unitario>
+			<precio-final>15000</precio-final>
+			<cantidad>1</cantidad>
+		</articulo>
+	<precio-total id="1" Fecha = "26/10/2017">185000</precio-total>
+	</articulos>
+</factura>
